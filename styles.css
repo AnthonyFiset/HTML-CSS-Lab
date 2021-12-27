@@ -28,3 +28,27 @@ span {
     color: tomato;
 }
 
+.boxes {
+    margin: 5rem;
+    padding: 3rem;
+    border: solid 1rem tomato;
+    border-radius: 2rem;
+    width: 30em;
+}
+
+#box1 {
+    background-color: wheat;
+}
+
+#box2 {
+    background-color: rgb(117, 96, 57);
+}
+
+#box3 {
+    background-color: rgb(202, 136, 14);
+}
+
+#box4 {
+    background-color: rgb(114, 77, 7);
+}
+
