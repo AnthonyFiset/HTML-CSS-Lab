@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+* {
+    font-family: Roboto;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: teal;
+}
+
+a:hover {
+    color: rgb(31, 192, 192);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span {
+    font-weight: bold;
+    color: tomato;
+}
+
